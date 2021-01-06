@@ -60,7 +60,7 @@ export default function AdminComponent() {
                         {bookings.map((booking,ind)=>{
                             return(
                                 <tr>
-                                    <th scope="row">{ind}</th>
+                                    <th scope="row">{booking.id}</th>
                                     <td>{booking.userId}</td>
                                     <td>{booking.carId}</td>
                                     <td>{booking.fromTime}</td>
