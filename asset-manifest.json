@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/car-rental-system/static/css/main.f9042b86.chunk.css",
+    "main.js": "/car-rental-system/static/js/main.2431d0b7.chunk.js",
+    "main.js.map": "/car-rental-system/static/js/main.2431d0b7.chunk.js.map",
+    "runtime-main.js": "/car-rental-system/static/js/runtime-main.4325509c.js",
+    "runtime-main.js.map": "/car-rental-system/static/js/runtime-main.4325509c.js.map",
+    "static/css/2.4b491ec8.chunk.css": "/car-rental-system/static/css/2.4b491ec8.chunk.css",
+    "static/js/2.1af65a24.chunk.js": "/car-rental-system/static/js/2.1af65a24.chunk.js",
+    "static/js/2.1af65a24.chunk.js.map": "/car-rental-system/static/js/2.1af65a24.chunk.js.map",
+    "static/js/3.9771c6c8.chunk.js": "/car-rental-system/static/js/3.9771c6c8.chunk.js",
+    "static/js/3.9771c6c8.chunk.js.map": "/car-rental-system/static/js/3.9771c6c8.chunk.js.map",
+    "index.html": "/car-rental-system/index.html",
+    "static/css/2.4b491ec8.chunk.css.map": "/car-rental-system/static/css/2.4b491ec8.chunk.css.map",
+    "static/css/main.f9042b86.chunk.css.map": "/car-rental-system/static/css/main.f9042b86.chunk.css.map",
+    "static/js/2.1af65a24.chunk.js.LICENSE.txt": "/car-rental-system/static/js/2.1af65a24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4325509c.js",
+    "static/css/2.4b491ec8.chunk.css",
+    "static/js/2.1af65a24.chunk.js",
+    "static/css/main.f9042b86.chunk.css",
+    "static/js/main.2431d0b7.chunk.js"
+  ]
+}
