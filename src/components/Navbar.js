@@ -52,7 +52,7 @@ export default function Navbar() {
         <>
             <div>
                 <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                    <span className="navbar-brand" >Car Rental</span>
+                    <span className="navbar-brand" >Herin</span>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -65,9 +65,14 @@ export default function Navbar() {
                             {
                                 authStatus ==='successful' ?
                                 (
+                                <>
                                 <li className="nav-item">
-                                    <NavLink className="nav-link" to='/carView'>View Cars</NavLink>
+                                    <NavLink className="nav-link" to='#'>Services</NavLink>
                                 </li>
+                                <li className="nav-item">
+                                    <NavLink className="nav-link" to='/productsView'>Products</NavLink>
+                                </li>
+                                </>
                                 )
                                 :
                                 ''

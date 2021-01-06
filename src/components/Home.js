@@ -6,19 +6,15 @@ export default function Home() {
         <body>
             <div className="container">
                 <div className="jumbotron mt-3" style={{
-                                            background: 'none',
-                                            color: 'white',
-                                            fontFamily: 'Brush Script MT',
-                                        }}>
-                <h1 className="display-1 text-center">Car Rental System</h1>
+                    background: "none"
+                }}>
+                <h1 className="display-1 text-center">Herin - E-Commerce App</h1>
                 <br />
                 <br />
-                <p className="lead">This project is designed so as to be used by Car Rental Company
-            specializing  in renting cars to customers .</p>
-                <p>The Car Rental System is being developed for customers so that they can  book their vehicles when they required .</p>
+                <p className="lead">Herin - An E-commerce App,We Demonstrate our Product and Services here. </p>
                 </div> 
             </div>
-            <AdminComponent />
+            {/* <AdminComponent /> */}
         </body>
     )
 }

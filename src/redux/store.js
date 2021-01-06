@@ -8,8 +8,8 @@ import carManagmentReducer from "./reducers/carManagmentReducers";
 
 
 const rootReducer = combineReducers({
-    auth: authReducer,
-    carManagment: carManagmentReducer
+    auth: authReducer
+        // carManagment: carManagmentReducer
 })
 
 export const store = createStore(rootReducer, composeWithDevTools(
